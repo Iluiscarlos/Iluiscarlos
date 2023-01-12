@@ -3,12 +3,12 @@
 - 🔭 Estou em busca de uma oportunidade de emprego na área de desenvolvimento
 - 👨‍🎓 Formado recentemente na 1ª Turma do CRIE_TI da Univates
 - 🌱 No momento estou em um projeto proposto em aula, de desenvolvimento Mobile com React Native
-- 📈 Sempre disposto e buscando aprender
+- 📈 Sempre buscando e disposto a aprender
 
 
 
 <div align="center">
-  <a href="https://github.com/mariele-huff">
+  <a href="https://github.com/Iluiscarlos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iluiscarlos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iluiscarlos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
